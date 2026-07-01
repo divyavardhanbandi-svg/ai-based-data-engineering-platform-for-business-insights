@@ -1,0 +1,16 @@
+Order_ID,Customer_ID,Product_Category,Region,Sales,Profit,Quantity,Discount
+1001,C001,Electronics,South,25000,5000,2,5
+1002,C002,Furniture,North,18000,3000,1,10
+1003,C003,Clothing,East,7000,1200,4,8
+1004,C004,Electronics,West,30000,6500,3,3
+1005,C005,Grocery,South,5000,900,5,2
+1006,C006,Furniture,North,22000,4000,2,7
+1007,C007,Clothing,East,9000,1500,3,5
+1008,C008,Electronics,West,35000,8000,4,4
+1009,C009,Grocery,South,6500,1000,6,1
+1010,C010,Furniture,North,26000,5200,2,6
+1011,C011,Electronics,East,28000,5600,3,5
+1012,C012,Grocery,West,8000,1400,7,2
+1013,C013,Clothing,South,12000,2100,4,6
+1014,C014,Furniture,East,24000,4500,2,8
+1015,C015,Electronics,North,40000,9200,5,4
